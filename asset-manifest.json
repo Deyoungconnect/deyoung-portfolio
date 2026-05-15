@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deyoung-portfolio/static/css/main.b9818f01.css",
+    "main.js": "/deyoung-portfolio/static/js/main.0f670cc7.js",
+    "static/media/chibuike1.png": "/deyoung-portfolio/static/media/chibuike1.500f4cd1631a315bba71.png",
+    "static/media/logo.jpg": "/deyoung-portfolio/static/media/logo.ae7737d536a41b8646e5.jpg",
+    "static/media/academy-image2.jpeg": "/deyoung-portfolio/static/media/academy-image2.bed108aa2168a4e21774.jpeg",
+    "index.html": "/deyoung-portfolio/index.html",
+    "main.b9818f01.css.map": "/deyoung-portfolio/static/css/main.b9818f01.css.map",
+    "main.0f670cc7.js.map": "/deyoung-portfolio/static/js/main.0f670cc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9818f01.css",
+    "static/js/main.0f670cc7.js"
+  ]
+}
